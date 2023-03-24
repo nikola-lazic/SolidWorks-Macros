@@ -26,9 +26,3 @@ Open drawing and just run this macro and it will save that drawing into **PDF** 
 ### **Save as JPG**
 Open drawing and just run this macro and it will save that drawing into **JPG** format at the same location where the SolidWorks drawing is saved. Maybe it's better to rewrite this into **TIFF** format.
 </br>TIFF is much better that JPG and you could save more detailed images.
-
----
-
-### **Save as JPG**
-Open drawing and just run this macro and it will save that drawing into **JPG** format at the same location where the SolidWorks drawing is saved. Maybe it's better to rewrite this into **TIFF** format.
-</br>TIFF is much better that JPG and you could save more detailed images.
