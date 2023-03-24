@@ -1,6 +1,6 @@
 # **SolidWorks Macros**
 ![SolidWorks Logo](/img/Solidworks-Logo.png)
-</br>This is a small collection of SolidWorks Macros that I wrote a long time ago for my father. Please, note that comments are written on Serbian language, but you can easily translate them if necessary.
+</br>This is a small collection of SolidWorks Macros that I wrote a long time ago for my father. Please, note that comments are written in Serbian language, but you can easily translate them if necessary.
 
 ## **Table of Contents**
 - [Custom Property Builder](#custom-property-builder)
